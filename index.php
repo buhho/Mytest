@@ -12,22 +12,13 @@
     <h1>Pagina de Pruebas</h1>
     <h3>Version 23/Feb/2021</h3>
     <?php
-
-    include("modulo1.php");
-    echo "Texto en PHP.  ";
-    echo "Funcion de suma:  a+b = ".suma(4,3);
+        include("modulo1.php");
+        echo "Texto en PHP.  ";
+        echo "Funcion de suma:  a+b = ".suma(4,3);
     ?>   
     </div>
-<<<<<<< HEAD
 </body>
 <footer>
-    <h4>Pie de pagina
-    </h4>
+    <h4>Pie de pagina</h4>
 </footer>
-=======
-
-</body>
->>>>>>> bf7ea3b0bf8b49951c83d6cadbec946bb61cb515
 </html>
-
-
