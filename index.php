@@ -18,8 +18,11 @@
     echo "Funcion de suma:  a+b = ".suma(4,3);
     ?>   
     </div>
-
 </body>
+<footer>
+    <h4>Pie de pagina
+    </h4>
+</footer>
 </html>
 
 
